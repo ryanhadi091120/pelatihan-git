@@ -1,2 +1,2 @@
 # pelatihan-git
-ini adalah repo coba coba
+Belajar git dan github
